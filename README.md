@@ -7,3 +7,20 @@
 - 🌐 Web Development
 - 🛡️ Cybersecurity & Scripting
 - 🛠️ Building tools 
+
+🧠 Learning Path
+Currently diving deeper into:
+- **Low-Level Programming & Systems Design**
+- **CV & ML**
+- **Embedded Systems & Microcontrollers**
+- **Systems Programming**
+
+🧭 On the Radar
+Exploring next:
+- **Blockchain Development & web3** 
+- **Cybersecurity**
+- **Rust & Go for system-level programming**
+- **Cloud Platforms (AWS)**
+
+
+
