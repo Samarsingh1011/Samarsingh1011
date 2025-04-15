@@ -49,5 +49,5 @@
 
 <h2 align="left">Connect With Me</h2> 
 <a href="https://discord.gg/8Wp5vpD3gV">
-    <img src="https://discord.com/api/guilds/1261700510373908540/widget.png?style=banner4" alt="Discord Server" />
+    <img src="https://discord.com/api/guilds/1261700510373908540/widget.png?style=banner3" alt="Discord Server" />
 </a>
