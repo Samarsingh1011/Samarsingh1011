@@ -9,14 +9,16 @@
   <img src="https://github.com/Samarsingh1011/Samarsingh1011/blob/main/iron-man-science.gif" width="150" height="100" style="margin: 5px;" />
 </p>
 
+<br>
 - ⚙️ Programming (Languages: JS/TS, C/C++, Swift, C#...)
 - 🤖 ML, Computer Vision
 - 🧠 Robotics & Embedded Systems
 - 🌐 Web Development
 - 🛡️ Cybersecurity & Scripting
 - 🛠️ Building tools
- 
-<br>🧠 Learning Path<br>
+<br> 
+
+<br><h2 align="left">🧠 Learning Path</h2><br>
 
 Currently diving deeper into:
 - **Low-Level Programming & Systems Design**
