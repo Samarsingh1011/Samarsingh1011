@@ -37,10 +37,10 @@
 
 <h2 align="left">🧭 On the Radar</h2>
 <ul>
-  <li>**Blockchain Development & web3**</li>
-  <li>**Cybersecurity**</li>
-  <li>**Rust & Go for system-level programming**</li>
-  <li>**Cloud Platforms (AWS)**</li>
+  <li><strong>Blockchain Development & web3</strong></li>
+  <li><strong>Cybersecurity</strong></li>
+  <li><strong>Rust & Go for system-level programming</strong></li>
+  <li><strong>Cloud Platforms (AWS)</strong</li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
