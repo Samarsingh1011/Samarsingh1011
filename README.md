@@ -4,7 +4,7 @@
 > where code solves all
 
 <p align="center">
-  <img src="https://tenor.com/U8DUBr1HDf.gif" width="30%" />
+  <img src="https://tenor.com/view/forza-motorsport-aston-martin-vulcan-amr-pro-racing-driving-race-car-gif-635911152097178263" width="30%" />
   <img src="https://tenor.com/sxwK5aBVRSA.gif" width="30%"/>
   <img src="https://tenor.com/bH7PMUN8MwN.gif" width="30%"/>
 </p>
