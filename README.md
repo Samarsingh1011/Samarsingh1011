@@ -25,15 +25,14 @@
 <br>
 
 
-<br><h3 align="left">🧠 Learning Path</h3><br>
+<br><h2 align="left">🧠 Learning Path</h2><br>
 Currently diving deeper into:
 - **Low-Level Programming & Systems Design**
 - **CV & ML**
 - **Embedded Systems & Microcontrollers**
 - **Systems Programming**
 
-<br><h3 align="left">🧭 On the Radar</h3><br>
-Exploring next:
+<br><h2 align="left">🧭 On the Radar</h2><br>
 - **Blockchain Development & web3** 
 - **Cybersecurity**
 - **Rust & Go for system-level programming**
