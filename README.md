@@ -1,5 +1,5 @@
 <h1 align= "center"> Greetings, Sapiens🌍</h1>
-> 🌌 Welcome to the far reaches of the cosmos, where code solves all. 
+>🌌 Welcome to the far reaches of the cosmos, where code solves all. 
 <h3 align="left">I enjoy building projects—whether it's apps, tools, or entire systems</h3>
 
 - ⚙️ Programming (Languages: JS/TS, C/C++, Swift, C#...)
