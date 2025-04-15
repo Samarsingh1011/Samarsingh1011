@@ -26,11 +26,13 @@
 
 <h2 align="left">🧠 Learning Path</h2>
 <p>Currently diving deeper into:</p>
+<ul>
+  <li><strong>Blockchain Development & web3</strong></li>
+  <li><strong>Cybersecurity</strong></li>
+  <li><strong>Rust & Go for system-level programming</strong></li>
+  <li><strong>Cloud Platforms (AWS)</strong></li>
+</ul>
 
-- **Low-Level Programming & Systems Design**
-- **CV & ML**
-- **Embedded Systems & Microcontrollers**
-- **Systems Programming**
 
 
 <h2 align="left">🧭 On the Radar</h2>
