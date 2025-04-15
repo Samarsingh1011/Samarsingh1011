@@ -1,5 +1,5 @@
-<span style="color:#00FFFF">Greetings, Sapiens🌍</span>
-<h3 align="center">I enjoy building projects—whether it's apps, tools, or entire systems</h3>
+<h1 align= "center" Greetings, Sapiens🌍</h1>
+<h3 align="left">I enjoy building projects—whether it's apps, tools, or entire systems</h3>
 
 - ⚙️ Programming (Languages: JS/TS, C/C++, Swift, C#...)
 - 🤖 ML, Computer Vision
