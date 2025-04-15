@@ -26,12 +26,12 @@
 
 <h2 align="left">🧠 Learning Path</h2>
 <p>Currently diving deeper into:</p>
-<ul>
-  <li>**Low-Level Programming & Systems Design**</li>
-  <li>**CV & ML**</li>
-  <li>**Embedded Systems & Microcontrollers**</li>
-  <li>**Systems Programming**</li>
-</ul>
+
+- **Low-Level Programming & Systems Design**
+- **CV & ML**
+- **Embedded Systems & Microcontrollers**
+- **Systems Programming**
+
 
 <h2 align="left">🧭 On the Radar</h2>
 <ul>
