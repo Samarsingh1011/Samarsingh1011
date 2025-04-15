@@ -48,6 +48,6 @@
 <br>![](https://nirzak-streak-stats.vercel.app/?user=samarsingh1011&theme=dark&hide_border=false)<br>
 
 <h2 align="left">Connect With Me</h2> 
-<a href="https://discord.gg/8Wp5vpD3gV">
-    <img src="https://discord.com/api/guilds/1261700510373908540/widget.png?style=banner3" alt="Discord Server" />
+<a href="https://discord.gg/8Wp5vpD3gV" align="center">
+    <img src="https://discord.com/api/guilds/1261700510373908540/widget.png?style=banner1" alt="Discord Server" />
 </a>
