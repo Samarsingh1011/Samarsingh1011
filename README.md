@@ -4,9 +4,8 @@
 > where code solves all
 
 <p align="center">
-  <img src="https://github.com/Samarsingh1011/Samarsingh1011/blob/main/aston-martin-vulcan.gif" width="40%"/>
-  <img src="https://github.com/Samarsingh1011/Samarsingh1011/blob/main/iron-man-science.gif" width="35%"/>
-  <img src="https://github.com/Samarsingh1011/Samarsingh1011/blob/main/rain.gif" width="30%"/>
+  <img src="https://github.com/Samarsingh1011/Samarsingh1011/blob/main/iron-man-science.gif" width="40%"/>
+  <img src="https://github.com/Samarsingh1011/Samarsingh1011/blob/main/rain.gif" width="40%"/>
 </p>
 
 - ⚙️ Programming (Languages: JS/TS, C/C++, Swift, C#...)
