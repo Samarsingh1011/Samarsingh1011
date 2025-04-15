@@ -27,10 +27,10 @@
 <h2 align="left">🧠 Learning Path</h2>
 <p>Currently diving deeper into:</p>
 <ul>
-  <li><strong>Blockchain Development & web3</strong></li>
-  <li><strong>Cybersecurity</strong></li>
-  <li><strong>Rust & Go for system-level programming</strong></li>
-  <li><strong>Cloud Platforms (AWS)</strong></li>
+  <li><strong>Low-Level Programming & Systems Design</strong></li>
+  <li><strong>CV & ML</strong></li>
+  <li><strong>Embedded Systems & Microcontrollers</strong></li>
+  <li><strong>Systems Programming</strong></li>
 </ul>
 
 
