@@ -1,4 +1,4 @@
-<h1 align= "center" Greetings, Sapiens🌍</h1>
+<h1 align= "center"> Greetings, Sapiens🌍</h1>
 <h3 align="left">I enjoy building projects—whether it's apps, tools, or entire systems</h3>
 
 - ⚙️ Programming (Languages: JS/TS, C/C++, Swift, C#...)
