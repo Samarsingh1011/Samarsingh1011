@@ -1,4 +1,4 @@
-<h1 align="center"> Greetings, Sapiens 🛸 </h1>
+<br><h1 align="center"> Greetings, Sapiens 🛸 </h1><br>
 
 > 🌌 Welcome to the far reaches of the cosmos, 
 > where code solves all
