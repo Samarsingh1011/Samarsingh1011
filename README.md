@@ -1,4 +1,4 @@
-<h1><span style="color:#00FFFF">Greetings, Earthlings 🌍</span></h1>
+<span style="color:#00FFFF">Greetings, Sapiens🌍</span>
 <h3 align="center">I enjoy building projects—whether it's apps, tools, or entire systems</h3>
 
 - ⚙️ Programming (Languages: JS/TS, C/C++, Swift, C#...)
