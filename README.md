@@ -3,7 +3,6 @@
 > 🌌 Welcome to the far reaches of the cosmos, 
 > where code solves all
 
-<div class="tenor-gif-embed" data-postid="635911152097178263" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/forza-motorsport-aston-martin-vulcan-amr-pro-racing-driving-race-car-gif-635911152097178263">Forza Motorsport Aston Martin Vulcan Amr Pro GIF</a>from <a href="https://tenor.com/search/forza+motorsport-gifs">Forza Motorsport GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <p align="center">
   <img src="https://github.com/Samarsingh1011/Samarsingh1011/blob/main/martin.gif" width="30%" />
   <img src="https://github.com/Samarsingh1011/Samarsingh1011/blob/main/iron-man-science.gif" width="30%"/>
