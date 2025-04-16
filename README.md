@@ -51,10 +51,11 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=samarsingh1011&theme=dark&hide_border=false)
 
 ---
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarsingh1011&show_icons=true&locale=en&layout=compact" alt="samarsingh1011" /></p>
-
----
+<div align="center">
+<br>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=samarsingh1011&show_icons=true&locale=en&layout=compact" alt="samarsingh1011" /></p>
+<br>
+</div>
 
 
 <h2 align="left">Connect With Me</h2> 
