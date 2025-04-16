@@ -52,9 +52,7 @@
 
 ---
 <div align="center">
-<br>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=samarsingh1011&show_icons=true&locale=en&layout=compact" alt="samarsingh1011" /></p>
-<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Samarsingh1011&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
 
