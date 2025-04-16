@@ -54,6 +54,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarsingh1011&show_icons=true&locale=en&layout=compact" alt="samarsingh1011" /></p>
 
+---
+
+
 <h2 align="left">Connect With Me</h2> 
 <div align="center">
 <a href="https://discord.gg/8Wp5vpD3gV" align="center">
