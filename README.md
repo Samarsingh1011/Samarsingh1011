@@ -53,7 +53,7 @@
 <br>
 <p align="center" >
   <a href= "https://nirzak-streak-stats.vercel.app/?user=samarsingh1011&theme=dark&hide_border=true"><img src="https://nirzak-streak-stats.vercel.app/?user=samarsingh1011&theme=dark&hide_border=true"
-    height="150">
+    height="150"></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samarsingh1011&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="150">
 </p>
 
