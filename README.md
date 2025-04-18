@@ -13,7 +13,7 @@
 <br>
 - ⚙️ Programming (Languages: JS/TS, C/C++, Swift, C#...)
 <br>
-- 🤖 ML, Computer Vision
+- 🥽 ML, Computer Vision
 <br>
 - 🧠 Robotics & Embedded Systems
 <br>
