@@ -50,6 +50,7 @@
 ---
 <br>
 <p align="center">
+![](https://nirzak-streak-stats.vercel.app/?user=samarsingh1011&theme=dark&hide_border=false)<br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=samarsingh1011&theme=dark&hide_border=true" height="150">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samarsingh1011&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="150">
 </p>
