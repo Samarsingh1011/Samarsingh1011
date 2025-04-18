@@ -52,9 +52,9 @@
 <!-- ![](https://nirzak-streak-stats.vercel.app/?user=samarsingh1011&theme=dark&hide_border=false)<br/> -->
 <br>
 <p align="center" >
-  <a href= "https://nirzak-streak-stats.vercel.app/?user=samarsingh1011&theme=dark&hide_border=true"><img src="https://nirzak-streak-stats.vercel.app/?user=samarsingh1011&theme=dark&hide_border=true"
+  <a href= "https://nirzak-streak-stats.vercel.app/?user=samarsingh1011&theme=dark&hide_border=true" target="_blank"><img src="https://nirzak-streak-stats.vercel.app/?user=samarsingh1011&theme=dark&hide_border=true"
     height="150"></a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=samarsingh1011&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samarsingh1011&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="150"></a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=samarsingh1011&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samarsingh1011&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="150"></a>
 </p>
 
 
