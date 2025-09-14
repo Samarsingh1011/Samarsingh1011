@@ -53,14 +53,3 @@
     height="150"></a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=samarsingh1011&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samarsingh1011&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="150"></a>
 </p>
-
-
----
-
-
-<h2 align="left">Connect With Me</h2> 
-<div align="center">
-<a href="https://discord.gg/8Wp5vpD3gV" align="center">
-    <img src="https://discord.com/api/guilds/1261700510373908540/widget.png?style=banner1" alt="Discord Server" />
-</a>
-</div>
